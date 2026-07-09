@@ -1,5 +1,40 @@
+# Ambiente virtual
 .venv/
+venv/
+env/
+
+# Variáveis de ambiente
 .env
+.env.local
+
+# Cache do Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
 .vscode/
+
+# Pytest / testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Build / distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos enviados para teste, se quiser evitar subir documentos pessoais
+uploads/
