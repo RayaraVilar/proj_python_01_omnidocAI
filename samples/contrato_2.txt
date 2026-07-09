@@ -1,0 +1,7 @@
+Contrato de Locação
+
+A empresa Gama loca um espaço comercial para a empresa Delta pelo prazo de 6 meses.
+
+O pagamento deverá ocorrer até o dia 5 de cada mês.
+
+Em caso de descumprimento das obrigações, poderá haver aplicação de multa contratual.
