@@ -1,0 +1,9 @@
+Contrato de Prestação de Serviços
+
+A empresa Alfa contrata a empresa Beta para prestação de serviços de suporte técnico pelo prazo de 12 meses.
+
+O pagamento será realizado mensalmente até o dia 10 de cada mês.
+
+Em caso de atraso superior a 15 dias, poderá haver suspensão dos serviços.
+
+As partes concordam com as condições descritas neste documento.
